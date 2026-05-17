@@ -1,5 +1,5 @@
-# CS-5101 — Karachi Transport Planner
-## MS AI Evening Program | Spring 2026 | Assignment 1 & 2
+# Karachi Transport Planner
+## Advanced Artifical Intelligence
 
 ---
 
