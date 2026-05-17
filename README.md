@@ -68,7 +68,7 @@ python layer3_tests.py
 | DHA Phase V ↔ Korangi             | 25 min | Korangi Creek Bridge; single point  |
 | North Nazimabad ↔ Orangi Town     | 30 min | Orangi nullah crossing              |
 
-[Karachi Graph](karachi_transport_state_space_graph.svg)
+![Karachi Graph](karachi_transport_state_space_graph.svg)
 
 ---
 
